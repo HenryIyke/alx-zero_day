@@ -1,1 +1,1 @@
-*This* *is* *my* **second** **ALX** **Project** **Directory**
+*This* *file* *is* *mandatory* *in* *all* **ALX** **School** **Projects**
