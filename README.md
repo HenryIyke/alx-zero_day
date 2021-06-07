@@ -1,1 +1,1 @@
-*This* *file* *is* *mandatory* *in* *all* **ALX** **School** **Projects**
+*This* *file* *is* *for* *ALX* *edit*
